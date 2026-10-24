@@ -1,0 +1,140 @@
+# Day 5 – Excel Data Analysis
+
+## 📊 Overview
+
+This project is part of my **45-Day Data Analytics Internship/Training Track**.
+
+For Day 5, I performed an end-to-end analysis of a retail sales dataset using **Microsoft Excel**. The objective was to practice Excel formulas, data organization, PivotTables, and basic business insights.
+
+---
+
+## 🎯 Objectives
+
+- Analyze a structured retail sales dataset.
+- Practice Excel formulas such as `SUMIFS`, `COUNTIFS`, and `AVERAGEIFS`.
+- Create PivotTables for business analysis.
+- Analyze sales by category, region, and month.
+- Create a summary sheet containing important KPIs.
+- Identify key findings from the dataset.
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- PivotTables
+- Excel Formulas
+- Basic Data Analysis
+
+---
+
+## 📁 Workbook Structure
+
+The Excel workbook contains the following sections/sheets:
+
+### 1. Raw Data
+Contains the original retail sales dataset.
+
+The raw data was kept separate and untouched for analysis.
+
+### 2. Analysis
+Contains Excel-based calculations and formulas, including:
+
+- Total Sales
+- Total Profit
+- Total Quantity
+- Sales by Category
+- Orders by Category
+- Average Sales by Category
+
+### 3. PivotTables
+PivotTables were created to analyze:
+
+- Sales by Category
+- Sales & Profit by Category
+- Sales by Region
+- Sales by Month
+
+### 4. Summary
+A final summary section containing:
+
+- Total Sales
+- Total Profit
+- Total Quantity
+- Sales by Category
+- Sales by Region
+- Key Findings
+
+---
+
+## 📌 Key KPIs
+
+| KPI | Value |
+|---|---:|
+| Total Sales | 31,933.24 |
+| Total Profit | 5,839.45 |
+| Total Quantity | 58 |
+
+---
+
+## 📈 Sales by Category
+
+| Category | Sales |
+|---|---:|
+| Technology | 16,072.97 |
+| Furniture | 10,776.32 |
+| Office Supplies | 5,083.96 |
+
+**Technology** generated the highest sales among the three categories.
+
+---
+
+## 🌍 Sales by Region
+
+| Region | Sales |
+|---|---:|
+| Africa | 2,832.96 |
+| Central | 2,892.51 |
+| East | 2,309.65 |
+| Oceania | 18,814.16 |
+| West | 5,083.96 |
+
+**Oceania** recorded the highest sales in the dataset.
+
+---
+
+## 🔍 Key Findings
+
+The analysis shows total sales of approximately **31,933.24**, with total profit of approximately **5,839.45** and total quantity of **58**. Technology generated the highest sales among the categories, followed by Furniture and Office Supplies. Among the regions, Oceania was the strongest contributor to sales, while East recorded the lowest sales. Overall, Technology and Oceania were the strongest contributors to sales in this dataset.
+
+---
+
+## 💡 Excel Skills Practiced
+
+- Excel Tables
+- Data organization
+- Freeze Panes
+- `SUMIFS`
+- `COUNTIFS`
+- `AVERAGEIFS`
+- PivotTables
+- Date grouping
+- KPI creation
+- Basic business analysis
+- Summary reporting
+
+---
+
+## 📂 Deliverable
+
+The main deliverable is the Excel workbook containing the complete analysis, PivotTables, and summary report.
+
+---
+
+## 🚀 Learning Outcome
+
+Through this task, I gained practical experience in using Excel for **data cleaning, formula-based analysis, PivotTable analysis, KPI reporting, and extracting business insights from a retail dataset**.
+
+---
+
+**Day 5 of 45 – Data Analytics Track**
